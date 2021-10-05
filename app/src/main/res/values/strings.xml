@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HotChicken</string>
+    <string name="txt_breakfast">Breakfast</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_dessert">Dessert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummyName">Garlic Butter Shrimp</string>
+    <string name="_1_2_k">1.2 K</string>
+    <string name="cooked">Cooked</string>
+    <string name="txt_detail">Detail</string>
+    <string name="txt_imageview">Imageview</string>
+    <string name="_7_2">7.2</string>
+    <string name="txt_calories">Calories</string>
+    <string name="txt_carbo">Carbo</string>
+    <string name="txt_protein">protein</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_recipes">Recipes</string>
+    <string name="txt_ingredients">ingredients :</string>
+    <string name="txt_instructions">instructions :</string>
+</resources>
